@@ -1,6 +1,4 @@
-Here is the **README.md** in clean Markdown format:
 
-````markdown
 # Causal Discovery for Telecom KPI Diagnosis
 
 This project demonstrates how classical causal discovery algorithms can recover underlying causal structure in telecom network KPIs and how such structure enables meaningful counterfactual reasoning for network automation.
